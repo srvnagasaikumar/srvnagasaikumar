@@ -63,7 +63,7 @@
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ---
-### “Currently exploring new DevOps / SRE / Platform Engineering opportunities — India or remote globally.”
+### “Currently exploring DevOps / SRE / Platform Engineering opportunities — Hyderabad, Bangalore, Chennai, Pune or remote globally.”
 
 ---
 
